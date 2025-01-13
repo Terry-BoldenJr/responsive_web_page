@@ -40,7 +40,7 @@ footer {
 }
 
 .creative {
-  color: midnightblue;
+  color: midnightblue !important;
 }
 
 @media (max-width: 680px) {
